@@ -6,4 +6,6 @@ This reporsitory is meant for learning and experimenting while implementing avai
 - Experimental, so prone to runtime errors
 - Commit name guide: encoder used; model used; score obtained; change in model (optional)
 - Code will only be updated for a better score
-- Watch for updates
+- Score may vary due to random test/train data split
+
+Watch for updates
