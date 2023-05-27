@@ -4,4 +4,6 @@ This reporsitory is meant for learning and experimenting while implementing avai
 
 - Written in Python Jupyter notebook environment
 - Experimental, so prone to runtime errors
+- Commit name guide: encoder used; model used; score obtained; change in model (optional)
+- Code will only be updated for a better score
 - Watch for updates
